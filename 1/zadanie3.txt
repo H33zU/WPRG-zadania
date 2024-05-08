@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<head>
+    <title>Table example</title>
+</head>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+    <div id="main">
+        <table>
+            <tr>
+                
+                <td colspan="3">komorka 1</th>
+                <td>komorka 2</th>
+                <td>komorka 3</th>
+            </tr>
+            <tr>
+                <td rowspan="2">komorka 4</td>
+                <td>komorka 5</td>
+                <td>komorka 6</td>
+                <td>komorka 7</td>
+                <td>komorka 8</td>                
+            </tr>
+            <tr>
+                <td>komorka 9</td>
+                <td>komorka 10</td>
+                <td rowspan="2">komorka 11</td>
+                <td>komorka 12</td>
+            </tr>
+            <tr>
+                <td>komorka 13</td>
+                <td rowspan="3">komorka 14</td>
+                <td>komorka 15</td>
+                <td>komorka 16</td>
+            </tr>
+            <tr>
+             <td>komorka 17</td>
+             <td colspan="2">komorka 18</td>
+             <td>komorka 19</td>
+            </tr>
+            <tr>
+             <td>komorka 20</td>
+             <td>komorka 21</td>
+             <td colspan="2">komorka 22</td>
+            </tr>
+              
+        </table>
+    </div>
+</body>
+</html>

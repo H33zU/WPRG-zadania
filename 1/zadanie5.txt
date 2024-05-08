@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<table>
+            <tr>
+                <th>Produkt</th>
+                <th>Opis</th>
+                <th>Cena (zł)</th>
+		<th>Zdjęcie</th>
+            </tr>
+            <tr>
+                <td><a href="https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/51/5148550/Telewizor-SAMSUNG-Q67C-skos-1.jpg">Telewizor</a></td>
+                <td>Ladnie wyglada</td>
+                <td>1233</td>
+		<td><a href="https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/51/5148550/Telewizor-SAMSUNG-Q67C-skos-1.jpg"><img src="https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/51/5148550/Telewizor-SAMSUNG-Q67C-skos-1.jpg" width="50" height="50" alt=""></a></td>
+            </tr>
+            <tr>
+                <td><a href="https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/61/6151952/Laptop-ACER-Nitro-5-AN515-58-front-tyl.jpg">Laptop</a></td>
+                <td>Szybko sie gra</td>
+                <td>2222</td>
+		<td><a href="https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/61/6151952/Laptop-ACER-Nitro-5-AN515-58-front-tyl.jpg"><img src="https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/61/6151952/Laptop-ACER-Nitro-5-AN515-58-front-tyl.jpg" width="50" height="50" alt="">
+</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/58/5860420/Smartfon-APPLE-iPhone-15-Pro-Tytan-blekitny-1.jpg">Smartfon</a></td>
+                <td>najlepszy na swiecie</td>
+                <td>9999</td>
+                <td><a href="https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/58/5860420/Smartfon-APPLE-iPhone-15-Pro-Tytan-blekitny-1.jpg"><img src="https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/58/5860420/Smartfon-APPLE-iPhone-15-Pro-Tytan-blekitny-1.jpg" width="50" height="50" alt=""></a></td>
+
+            </tr>
+            <tr>
+                <td><a href="https://www.mediaexpert.pl/komputery-i-tablety/urzadzenia-sieciowe/kamery-ip/kamera-obrotowa-smart-setti-sc830-2k">Kamera</a></td>
+                <td>nagrywa ci twarz</td>
+                <td>2</td>
+                <td><a href="https://www.mediaexpert.pl/komputery-i-tablety/urzadzenia-sieciowe/kamery-ip/kamera-obrotowa-smart-setti-sc830-2k"><img src="https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/38/3886898/Kamera-SETTI-SC830-2K-front-05.jpg" width="50" height="50" alt=""></a></td>
+            </tr>
+        </table>
+</body>
+
+</html>

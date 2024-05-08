@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Learning Web Development</h1>
+
+<p> I. Background Skills </p>
+<ol>
+<p>A. Unix Commands</p>
+</ol>
+
+<ol>
+<p>B. Vim Text editor</p>
+</ol>
+
+<p> II. HTML </p>
+
+<ol>
+<p>A. Minimal Page</p>
+</ol>
+
+<ol>
+<p>B. Headings</p>
+</ol>
+
+<ol>
+<p>C. Tags</p>
+</ol>
+
+<ol>
+<p>D. Lists</p>
+</ol>
+<ol><ol>
+<p>i. Unordered</p>
+<p>ii. Ordered</p>
+<p>iii. Definition</p>
+<p>iv. Nested</p>
+</ol></ol>
+
+<ol>
+<p>E. Links</p>
+</ol>
+<ol><ol>
+<p>i. Absolute</p>
+<p>ii. Relative</p>
+</ol></ol>
+<ol>
+<p>F. Images</p>
+</ol>
+
+</body>
+</html>
+
